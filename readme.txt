@@ -1,1 +1,1 @@
-Hi text file
+echo Hi text file
